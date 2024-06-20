@@ -6,7 +6,7 @@ This project demonstrates a microfrontend (MFE) implementation of a Todo List ap
 
 1. Clone the repository
 
-### `git clone`
+### `git clone https://github.com/BDhara/todo-list`
 ### `cd todo-list`
 
 2. Install dependencies
