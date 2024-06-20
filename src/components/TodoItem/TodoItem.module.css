@@ -1,0 +1,23 @@
+.todoItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+  }
+  
+  .todoItem input {
+    margin-right: 10px;
+  }
+  
+  .todoItem span {
+    flex-grow: 1;
+    margin-left: 10px;
+  }
+  
+  .todoItem span.completed {
+    text-decoration: line-through;
+    color: #999;
+  }
+  
